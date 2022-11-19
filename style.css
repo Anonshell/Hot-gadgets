@@ -1,0 +1,64 @@
+h2{
+    color: black;
+}
+
+.container{
+    margin-bottom: 200px;
+
+   
+}
+.carousel{
+    padding: 30px;
+    background-image: url('bg-1.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: auto;
+
+  }
+  
+  .Carousel{
+        
+
+ 
+  }
+
+  .buy-now{
+    border: none;
+    background-color: black;
+    color:white;
+    border-radius: 10px;
+  }
+
+  .Smartphone{
+    text-align: center; 
+  }
+
+
+  .bancat{
+    text-align: center;
+    border-bottom: 5px solid gray;
+    
+   
+     
+  }
+  .img1{
+    background-color: rgb(219, 219, 219);
+  }
+#img2{  background-color: rgb(219, 219, 219);
+    margin-top: -450px;
+    margin-left: 100px;
+    
+
+   
+}
+#img3{
+    background-color: rgb(219, 219, 219);
+  
+    margin-top: 100px;
+    margin-left: -50px;
+    margin-bottom: -200px;
+}
+
+.categories{
+    border-bottom: 2px solid gray;
+}
